@@ -1,1 +1,1 @@
-# img-gen-low-res
+# text2img-sd2-ipu
